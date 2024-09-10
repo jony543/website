@@ -7,5 +7,7 @@ featured: true
 featuredAs: "Art Music"
 image: "Quicksilver and Tray.jpg"
 ---
-description: some desc
+Chamber music after a painting by Abraham Kritzman
+<!--more-->
+
 

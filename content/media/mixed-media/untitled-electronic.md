@@ -5,5 +5,7 @@ draft: false
 featured: false
 featuredAs: Hello
 soundcloud: "1454150869"
+image: synth-knobs.jpg
 ---
-
+<!--more-->
+Composed in 2023

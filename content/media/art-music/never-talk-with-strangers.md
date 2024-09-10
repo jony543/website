@@ -6,5 +6,7 @@ audio: ntws-jmcd.wav
 image: "MasterandMargaritaFirstEdition.jpg"
 imageCredit: "Brad Verter"
 ---
-Performed by prof. John McDonald
+A piano piece; part of a suit written after Bulgakov's "The Master and Margarita"
+<!--more-->
+Performed by prof. John McDonald at Distler Hall, Tufts University.
 
