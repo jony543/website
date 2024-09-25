@@ -19,7 +19,10 @@ menus:
 params:
   numImages: 9
   copyright: '2024 Jonathan Ataria'
-  # social:
-  # - url: https://twitter.com
-  #   icon: /social/twitter.svg
-  #   name: Twitter
+  social:
+  - url: https://github.com/jony543
+    icon: /social/github.png
+    name: Github
+  - url: mailto:jonathan@atariamusic.com
+    icon: /social/email.png
+    name: Email
