@@ -26,3 +26,8 @@ params:
   - url: mailto:jonathan@atariamusic.com
     icon: /social/email.png
     name: Email
+  links:
+    - rel: authorization_endpoint
+      href: https://indieauth.com/auth
+    - rel: token_endpoint
+      href: https://tokens.indieauth.com/token
