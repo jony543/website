@@ -21,10 +21,10 @@ params:
   copyright: '2024 Jonathan Ataria'
   social:
   - url: https://github.com/jony543
-    icon: /social/github.png
+    icon: social/github.png
     name: Github
   - url: mailto:jonathan@atariamusic.com
-    icon: /social/email.png
+    icon: social/email.png
     name: Email
   links:
     - rel: authorization_endpoint

@@ -45,13 +45,13 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Update baseURL
-        uses: fjogeleit/yaml-update-action@main
-        with:
-          valueFile: 'hugo.yaml'
-          propertyPath: 'baseURL'
-          value: 'https://jony543.github.io/website/'
-          commitChange: false
+      # - name: Update baseURL
+      #   uses: fjogeleit/yaml-update-action@main
+      #   with:
+      #     valueFile: 'hugo.yaml'
+      #     propertyPath: 'baseURL'
+      #     value: 'https://jony543.github.io/website/'
+      #     commitChange: false
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
