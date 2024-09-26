@@ -28,6 +28,14 @@ iframe {
 
 .contact-form .name-and-email {
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.contact-form .name-and-email div {
+    width: 48%;
+    min-width: min(280px, 100%);
 }
 
 /* Style inputs with type="text", select elements and textareas */

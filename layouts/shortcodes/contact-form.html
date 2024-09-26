@@ -2,18 +2,16 @@
   <form action="https://api.web3forms.com/submit" method="POST">
   {{/*  <form action="https://forms.un-static.com/forms/9c9761cf14980e686b9786d9c3e01e87dbe46102" accept-charset="UTF-8" method="POST">  */}}
     <input type="hidden" name="access_key" value="6b40e776-ec5b-416b-9ef9-16144686144b"> <!-- web3forms access key -->
-    <table class="name-and-email">
-      <tr>
-        <td>
+    <div class="name-and-email">
+        <div>
           <label for="fname">Name</label>
           <input type="text" id="name" required name="name" placeholder="Your name..">
-        </td>
-        <td>
+        </div>
+        <div>
           <label for="fname">Email</label>
           <input type="email" id="email" required name="email" pattern="/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" placeholder="Your Email..">
-        </td>
-      </tr>
-    </table>
+        </div>
+    </div>
 
     <label for="subject">Message</label>
     <textarea id="message" name="message" required placeholder="Write something.." style="height:150px"></textarea>
