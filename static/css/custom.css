@@ -16,6 +16,7 @@ main.post.media {
     flex-direction: row;
     justify-content: space-between;
     padding-top: 2rem;
+    gap: 20px;
 }
 main.post.media div {
     flex: 1;
