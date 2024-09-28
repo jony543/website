@@ -18,7 +18,7 @@ main.post.media {
     padding-top: 2rem;
 }
 main.post.media div {
-    width: 48%;
+    flex: 1;
 }
 
 iframe {
