@@ -27,7 +27,7 @@ params:
     icon: social/github.png
     name: Github
   - url: https://www.linkedin.com/in/jonathan-ataria-2a75b753/
-    icon: social/linkedIn.png
+    icon: social/linkedin.png
     name: LinkedIn
   links:
     - rel: authorization_endpoint
