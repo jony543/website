@@ -6,7 +6,8 @@ audio: ntws-jmcd.wav
 image: "MasterandMargaritaFirstEdition.jpg"
 imageCredit: "Brad Verter"
 ---
-A piano piece; part of a suite written after Bulgakov's "The Master and Margarita"
+A piano piece inspired by "The Master and Margarita"
 <!--more-->
+Part of a suite following favorite points in Bulgakov's novel.
 Performed by prof. John McDonald at Distler Hall, Tufts University.
 
