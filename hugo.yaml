@@ -20,12 +20,15 @@ params:
   numImages: 9
   copyright: '2024 Jonathan Ataria'
   social:
-  - url: https://github.com/jony543
-    icon: social/github.png
-    name: Github
   - url: mailto:jonathan@atariamusic.com
     icon: social/email.png
     name: Email
+  - url: https://github.com/jony543
+    icon: social/github.png
+    name: Github
+  - url: https://www.linkedin.com/in/jonathan-ataria-2a75b753/
+    icon: social/linkedIn.png
+    name: LinkedIn
   links:
     - rel: authorization_endpoint
       href: https://indieauth.com/auth
