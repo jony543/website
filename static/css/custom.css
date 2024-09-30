@@ -37,6 +37,7 @@ iframe {
 .contact-form .name-and-email div {
     width: 48%;
     min-width: min(280px, 100%);
+    margin: unset;
 }
 
 /* Style inputs with type="text", select elements and textareas */
