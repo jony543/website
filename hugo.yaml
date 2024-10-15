@@ -2,6 +2,10 @@ languageCode: 'en-us'
 title: 'Jonathan Ataria | Composer'
 theme: 'quint-mod'
 defaultContentLanguage: en
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 menus:
   main:
   - name: Home
@@ -17,6 +21,7 @@ menus:
     url: /contact
     weight: 4
 params:
+  titleSuffix: 'Jonathan Ataria'
   numImages: 9
   copyright: '2024 Jonathan Ataria'
   social:
