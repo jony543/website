@@ -21,7 +21,6 @@ menus:
     url: /contact
     weight: 4
 params:
-  titleSuffix: 'Jonathan Ataria'
   numImages: 9
   copyright: '2024 Jonathan Ataria'
   social:
