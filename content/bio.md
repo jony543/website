@@ -2,7 +2,7 @@
 date: "2024-08-01T11:48:49+03:00"
 draft: false
 title: Jonathan Ataria
-subtitle: A Composer, multi-instrumentalist and music scholar
+subtitle: Composer, multi-instrumentalist and music scholar
 ---
 Jonathan holds a B.Sc. in Musicology and Computer Science from Tel-Aviv University, an M.A. in Ethnomusicology from Tufts University, and currently completing an M.Mus. in Composition for Media at the Jerusalem Academy fro Music and Dance. Jonathan creates engaging and innovative works that combine contemporary composition with traditional musics of diverse origins. His portfolio includes [Chamber Music](media/art-music/quicksilver-and-tray), [Film Scores](media/film-scores/tatiana) and [Music for Dance](media/mixed-media/look-up), while ranging from experimental [Electronic Music](media/mixed-media/untitled-electronic) to traditional [Arabic Music](media/art-music/oghniyat-elharizi).
 
