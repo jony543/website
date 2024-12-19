@@ -14,6 +14,7 @@ Music for the documentary by Noa Amiel-Lavie
 
 I was fortunate to be a part of the creation process of this sensitive and meaningful piece from early on. The story of Tatiana moved me to write one the melodies I'm most proud of.
 
-The film was premiered in [docaviv](https://www.docaviv.co.il/2024-en/films/the-life-and-tragedy-of-tatiana-haikin/).
+The film was premiered in [docaviv](https://www.docaviv.co.il/2024-en/films/the-life-and-tragedy-of-tatiana-haikin/).  
+TV premiere at [IPBC/Kan](https://www.youtube.com/watch?v=pUmSMfbepsw).
 
 <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3wJovH9tyiwGj8GCMcuwy0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
