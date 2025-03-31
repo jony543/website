@@ -2,7 +2,8 @@
 title: "Quicksilver and Tray"
 date: 2024-08-01T12:22:56+03:00
 draft: false
-makertube: "kUXjLN8Ae5wScnrYuoXLe3"
+# makertube: "kUXjLN8Ae5wScnrYuoXLe3"
+youtube: RGxoTRTdK60
 featured: true 
 featuredAs: "Art Music"
 image: "Quicksilver and Tray.jpg"
@@ -14,9 +15,9 @@ The painting Quicksilver and Tray caught my attention immediately when I saw it 
 
 **Performed by**  
 Conductor - Rotem Kidron  
-Violin - David Rot  
-Viola - Idan Khayat  
+Violin - Dezire Yar  
+Viola - Hananel Yaakov Gonen  
 Cello - Zohar Itzhak  
-Flute - Tamuz Shapira  
-Clarinet - Roni Salomons  
-Percussion - Omri Marom  
+Flute - Yotam Asael  
+Clarinet - Sarig Hazenfeld  
+Percussion - Nadav Ram  
