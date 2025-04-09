@@ -22,7 +22,7 @@ menus:
     weight: 4
 params:
   numImages: 9
-  copyright: '2024 Jonathan Ataria'
+  copyright: 'Jonathan Ataria'
   social:
   - url: mailto:jonathan@atariamusic.com
     icon: social/email.png
