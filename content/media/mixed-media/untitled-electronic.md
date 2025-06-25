@@ -6,6 +6,7 @@ featured: false
 featuredAs: Hello
 soundcloud: "1454150869"
 image: synth-knobs.jpg
+imageCredit: rotten77
 ---
 <!--more-->
 Composed in 2023

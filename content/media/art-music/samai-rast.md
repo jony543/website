@@ -5,6 +5,7 @@ draft: false
 featured: false
 youtube: Zr96QfVCaL4
 image: oud-shop.jpg
+imageCredit: DEZLAB
 ---
 For oud and piano
 <!--more-->
