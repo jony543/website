@@ -5,7 +5,7 @@ draft: false
 # makertube: "kUXjLN8Ae5wScnrYuoXLe3"
 youtube: RGxoTRTdK60
 featured: true 
-featuredAs: "Art Music"
+featuredAs: "Concert Music"
 image: "Quicksilver and Tray.jpg"
 imageCredit: Abraham Kritzman
 ---
