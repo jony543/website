@@ -5,6 +5,7 @@ draft: false
 featured: false
 youtube: W2jj3zMGuuk
 image: classical-guitar.jpg
+imageCredit: azadazahari
 ---
 A solo arrangement based on a guitar concerto
 <!--more-->

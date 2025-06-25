@@ -7,6 +7,7 @@ youtube: RGxoTRTdK60
 featured: true 
 featuredAs: "Art Music"
 image: "Quicksilver and Tray.jpg"
+imageCredit: Abraham Kritzman
 ---
 Chamber music inspired by a painting by Abraham Kritzman
 <!--more-->
