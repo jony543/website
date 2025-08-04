@@ -1,6 +1,6 @@
 ---
 title: "Untitled Electronic"
-date: 2024-08-04T08:16:48+03:00
+date: 2023-02-02T08:16:48+03:00
 draft: false
 featured: false
 featuredAs: Hello

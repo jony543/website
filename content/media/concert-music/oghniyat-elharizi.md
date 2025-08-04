@@ -1,6 +1,6 @@
 ---
 title: "Oghniyat ElHarizi"
-date: 2024-08-10T23:50:37+03:00
+date: 2024-05-27T23:50:37+03:00
 draft: false
 featured: false
 youtube: 7647yow2rus

@@ -1,6 +1,6 @@
 ---
 title: "The Life and Tragedy of Tatiana Haikin"
-date: 2024-08-01T12:22:48+03:00
+date: 2024-05-23T12:22:48+03:00
 draft: false
 featuredAs: "Film Scores"
 featured: true 

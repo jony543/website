@@ -1,6 +1,6 @@
 ---
 title: "Hagar and Ishma'el"
-date: 2025-06-25T13:11:14+03:00
+date: 2025-06-09T13:11:14+03:00
 draft: false
 featured: false
 youtube: aaCHs1qc1Q8?start=2057&end=2318

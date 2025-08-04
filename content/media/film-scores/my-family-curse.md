@@ -1,6 +1,6 @@
 ---
 title: "Kicking the Family Curse"
-date: 2024-09-10T11:52:40+03:00
+date: 2025-05-22T11:52:40+03:00
 draft: false
 featured: false
 image: my-family-curse.png

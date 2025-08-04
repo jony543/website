@@ -1,6 +1,6 @@
 ---
 title: "Look Up!"
-date: 2024-08-01T12:22:59+03:00
+date: 2024-06-19T12:22:59+03:00
 draft: false
 featured: true 
 featuredAs: "Mixed Media"
