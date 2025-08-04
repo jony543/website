@@ -1,5 +1,5 @@
 ---
-title: "My Family Curse"
+title: "Kicking the Family Curse"
 date: 2024-09-10T11:52:40+03:00
 draft: false
 featured: false
@@ -8,6 +8,8 @@ disable_media_in_single_view: true
 ---
 Music for a documentary by Aviya Shaked.  
 <!--more-->
+The film was premiered in [docaviv](https://www.docaviv.co.il/2025-en/films/kicking-the-family-curse/).  
+
  Official Trailer: 
  <iframe src="https://www.youtube.com/embed/H8J-j6QWImQ?controls=0" style="max-width: 600px;" height="300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
