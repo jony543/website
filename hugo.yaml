@@ -24,8 +24,8 @@ menus:
     weight: 4
 params:
   numImages: 9
-  sortBy: "Date"
-  sortDirection: "desc"
+  sortBy: "Title"
+  sortDirection: "asec"
   copyright: 'Jonathan Ataria'
   social:
   - url: mailto:jonathan@atariamusic.com
