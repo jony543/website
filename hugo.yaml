@@ -2,6 +2,8 @@ languageCode: 'en-us'
 title: 'Jonathan Ataria | Composer'
 theme: 'quint-mod'
 defaultContentLanguage: en
+pagination:
+  pagerSize: 99
 markup:
   goldmark:
     renderer:
@@ -22,6 +24,8 @@ menus:
     weight: 4
 params:
   numImages: 9
+  sortBy: "Title"
+  sortDirection: "asec"
   copyright: 'Jonathan Ataria'
   social:
   - url: mailto:jonathan@atariamusic.com
