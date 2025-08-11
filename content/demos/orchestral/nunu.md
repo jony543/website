@@ -7,7 +7,7 @@ audio: "Ataria - Nunu - Cute Boy Arrangement.mp3"
 ---
 <!--more-->
 #### Orchestral arrangemet for electro-pop song Cute Boy by Nunu
-Composed for Ziv Kuzikaro's arrangement class in JAMD. 
+Composed for Ziv Cojocaru's arrangement class in JAMD. 
 
 MIDI Demo (with vocal cover): [Click here to download mp3](audio/Ataria%20-%20Nunu%20-%20Cute%20Boy%20Arrangement.mp3). 
 
