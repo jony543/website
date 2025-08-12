@@ -9,5 +9,5 @@ imageCredit: DEZLAB
 ---
 For oud and piano
 <!--more-->
-Performed by prof. John McDonald and myself at Distler Hall, Tufts Universitty.
+Performed by prof. John McDonald and Jonathan Ataria at Distler Hall, Tufts Universitty.
 
