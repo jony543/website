@@ -22,6 +22,8 @@ menus:
   - name: Contact
     url: /contact
     weight: 4
+sitemap:
+  disable: true
 params:
   numImages: 9
   sortBy: "Title"
