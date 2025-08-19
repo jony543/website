@@ -30,9 +30,6 @@ params:
   sortDirection: "asec"
   copyright: 'Jonathan Ataria'
   social:
-  - url: mailto:jonathan@atariamusic.com
-    icon: social/email.png
-    name: Email
   - url: https://github.com/jony543
     icon: social/github.png
     name: Github
