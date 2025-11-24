@@ -4,10 +4,12 @@ date: 2024-07-01T12:22:56+03:00
 draft: false
 # makertube: "kUXjLN8Ae5wScnrYuoXLe3"
 youtube: RGxoTRTdK60
-featured: true 
-featuredAs: "Concert Music"
+featured: 1
 image: "Quicksilver and Tray.jpg"
 imageCredit: Abraham Kritzman
+tags:
+    - concert music
+    - classical
 ---
 Chamber music inspired by a painting by Abraham Kritzman
 <!--more-->

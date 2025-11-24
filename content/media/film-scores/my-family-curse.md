@@ -2,9 +2,10 @@
 title: "Kicking the Family Curse"
 date: 2025-05-22T11:52:40+03:00
 draft: false
-featured: false
 image: my-family-curse.png
 disable_media_in_single_view: true
+tags:
+    - film scores
 ---
 Music for a documentary by Aviya Shaked.  
 <!--more-->

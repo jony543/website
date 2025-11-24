@@ -2,12 +2,14 @@
 title: "The Life and Tragedy of Tatiana Haikin"
 date: 2024-05-23T12:22:48+03:00
 draft: false
-featuredAs: "Film Scores"
-featured: true 
+featured: 2 
 # vimeo: "935852568" # trailer
 # youtube: seSIo5ntf2o # trailer docaviv
 youtube: 4gNPRpX0tAQ
 image: "tatiana-poster.png"
+tags:
+    - film scores
+    - classical
 ---
 Music for the documentary by Noa Amiel-Lavie
 <!--more-->

@@ -2,9 +2,11 @@
 title: "Oghniyat ElHarizi"
 date: 2024-05-27T23:50:37+03:00
 draft: false
-featured: false
 youtube: 7647yow2rus
 image: elharizi-text.png
+tags:
+    - concert music
+    - arabic
 ---
 An Arabic classical song for text by the 12th century Jewish poet Yehuda Elharizi
 <!--more-->

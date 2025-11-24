@@ -5,6 +5,9 @@ draft: false
 audio: ntws-jmcd.wav
 image: "MasterandMargaritaFirstEdition.jpg"
 imageCredit: "Brad Verter"
+tags:
+    - concert music
+    - classical
 ---
 A piano piece inspired by "The Master and Margarita"
 <!--more-->
