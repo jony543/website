@@ -6,6 +6,7 @@ image: my-family-curse.png
 disable_media_in_single_view: true
 tags:
     - film scores
+    - arabic
 ---
 Music for a documentary by Aviya Shaked.  
 <!--more-->
