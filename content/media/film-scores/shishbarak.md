@@ -2,7 +2,7 @@
 title: "Shishbarak"
 date: 2025-06-25T15:23:42+03:00
 draft: false
-reel: DM5oHN5suZ8
+youtube: jiH-u8U23No
 image: shishbarak.jpeg
 imageCredit: geralt
 tags:
