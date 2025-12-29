@@ -11,5 +11,6 @@ tags:
 ---
 A classical setting of a poem by Else Lasker-Schüler
 <!--more-->
+Premiered in the [Jersalem International Writers Festival 2025](https://fest.mishkenot.org.il/en/events/a/view/?ContentID=1801).
 #### Hebrew text:
 ![Elsa Poem Text](/images/hagar-and-ishmael.png)
