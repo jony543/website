@@ -36,6 +36,9 @@ params:
   - url: https://open.spotify.com/artist/0rOzIP3w00vIJw8uBSVwE1
     icon: social/spotify.png
     name: Spotify
+  - url: https://audius.co/ataria
+    icon: social/audius.svg
+    name: Audius
   - url: https://www.linkedin.com/in/jonathan-ataria-2a75b753/
     icon: social/linkedin.png
     name: LinkedIn
