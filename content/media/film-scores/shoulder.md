@@ -1,0 +1,11 @@
+---
+title: "Shoulder"
+date: 2026-01-26T23:06:15+02:00
+draft: false
+audius: W6vd0Wo
+image: shoulder.jpeg
+tags:
+    - film scores
+    - electronic
+---
+Music for a documentary by Betchen Kahalany
