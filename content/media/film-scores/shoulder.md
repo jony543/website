@@ -8,4 +8,4 @@ tags:
     - film scores
     - electronic
 ---
-Music for a documentary by Betchen Kahalany
+Music for a documentary by Batchen Kahalany
