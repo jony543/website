@@ -8,7 +8,7 @@ tags:
     - film scores
     - arabic
 ---
-Music for a documentary by Aviya Shaked.  
+Music for a documentary by Aviya Shaked
 <!--more-->
 The film was premiered in [docaviv](https://www.docaviv.co.il/2025-en/films/kicking-the-family-curse/).  
 
