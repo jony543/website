@@ -7,7 +7,7 @@ image: synth-knobs.jpg
 imageCredit: rotten77
 tags:
     - electronic
-    - mixed media
+    - film scores
 ---
 <!--more-->
-Composed in 2023
+Featured in [People... huh?!](https://www.imdb.com/title/tt43267071/) by Victor Liberov.
