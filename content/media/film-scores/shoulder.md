@@ -8,4 +8,7 @@ tags:
     - film scores
     - electronic
 ---
-Music for a documentary by Batchen Kahalany
+Music for a documentary by Batchen Kahalany.
+<!--more-->
+
+The film was premiered in [docaviv](https://www.docaviv.co.il/films/shoulder/).
