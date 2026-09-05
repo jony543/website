@@ -7,6 +7,7 @@ image: "the-suppliants.webp"
 imageCredit: "Moti Milrod"
 tags:
     - mixed media
+    - theater
 ---
 Music for a choir scene by Euripides
 <!--more-->
