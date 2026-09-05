@@ -2,8 +2,8 @@
 title: "Should Compassion Cease to Beat Within Me"
 date: 2026-09-05T23:41:59+03:00
 draft: false
-image: luai-haj-acre.jpg
-imageCredit: Luai Haj
+image: luai-haj-poem.png
+imageCredit: The Israeli-Palestinian Bereaved Families Forum
 tags:
     - mixed media
     - theater
