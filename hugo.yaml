@@ -25,6 +25,17 @@ menus:
 sitemap:
   disable: true
 params:
+  description: 'Jonathan Ataria is a composer writing concert music, film scores, and music for media.'
+  author:
+    name: 'Jonathan Ataria'
+    jobTitle: 'Composer'
+    # Name variants search engines should associate with this site.
+    # Not rendered anywhere visible - structured data only.
+    alternateNames:
+      - 'יהונתן עתריה'
+      - 'יונתן עתריה'
+      - 'Yehonatan Ataria'
+      - 'Jonathan Atarya'
   numImages: 9
   sortBy: "Title"
   sortDirection: "asec"
